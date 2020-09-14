@@ -20,8 +20,8 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots/Video**
+If applicable, add screenshots or a video to help explain your problem.
 
 **Smartphone (please complete the following information):**
  - Device: [e.g. iPhone6]
