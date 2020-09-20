@@ -14,7 +14,7 @@ Go to the “Issues” tab at the top, and use the search bar to see if your iss
 
 ### What if I have a feature request, not a bug report?
 
-Please report bugs [here](https://github.com/jclerico/Cryptotick-feature-requests)
+Please request features [here](https://github.com/jclerico/Cryptotick-feature-requests)
 
 ### Can I participate in discussions here?
 
